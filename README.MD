@@ -43,5 +43,5 @@
 ```bash
   Вместо pip3 используем pip
   Вместо python3 используем python
-  Вместо source venv/bin/activate используем venv\\Scripts\\activate
+  Вместо source venv/bin/activate используем venv\Scripts\activate
 ```
